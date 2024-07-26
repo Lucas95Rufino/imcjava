@@ -17,7 +17,7 @@ function imc () {
         }else if (valorIMC < 25) {
             classificacao = 'com peso ideal. Parabéns!!!';
         }else if (valorIMC < 30){
-            classificacao = 'levemente acima do peso.';
+            classificacao = 'você está gordo.';
         }else if (valorIMC < 35){
             classificacao = 'com obesidade grau I.';
         }else if (valorIMC < 40){
