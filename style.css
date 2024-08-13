@@ -10,13 +10,13 @@ main{
   .container{
     display: flex;
     flex-direction: column;
-    background: rgb(0, 4, 255);
+    background: rgb(247, 0, 255);
     width: 400px;
     height: 600px;
     align-items: center;
     justify-content: space-evenly;
     border-radius: 20px;
-    box-shadow: 0 0 10px rgba(241, 241, 240, 0);
+    box-shadow: 0 0 10px rgba(14, 14, 13, 0);
   }
  
   .title{
